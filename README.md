@@ -69,7 +69,7 @@ i often use jlcpcb because they are reliable, cheap and give you an option of co
 
 ## interactive BOM for build guiding
 
-follow this link to view the [interactive BOM](https://htmlpreview.github.io/?https://github.com/cyberboy666/two_comparator_effect/blob/main/hardware/bom/ibom.html)
+follow this link to view the [interactive BOM](https://htmlpreview.github.io/?https://github.com/cyberboy666/_bisect_/blob/main/hardware/bom/ibom.html)
 
 ## general solder advice
 
