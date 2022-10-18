@@ -92,7 +92,8 @@ follow this link to view the [interactive BOM](https://htmlpreview.github.io/?ht
   
 <details><summary><b>operating guide</b> - start here if you have purchased an assembled unit</summary>
 
-[diagram coming here soon]
+![image](https://user-images.githubusercontent.com/12017938/196308820-274635eb-53a5-4b80-9784-1597c11f8e2d.png)
+
 
 - To set up using the circuit plug an active video source into an composite video input and plug a display into an composite video output of the device
 - Next plug in a 5v center-positive power supply into the 2.1mm barrel jack connector – I like to use a usb wall charger for this
